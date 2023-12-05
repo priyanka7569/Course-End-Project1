@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\Course End Project1\PlayerandTeamReqirements\PlayerandTeamReqirements\bin\Debug\PlayerandTeamReqirements.exe.config
+C:\Users\kotap\OneDrive\Desktop\Course End Project1\PlayerandTeamReqirements\PlayerandTeamReqirements\bin\Debug\PlayerandTeamReqirements.exe
+C:\Users\kotap\OneDrive\Desktop\Course End Project1\PlayerandTeamReqirements\PlayerandTeamReqirements\bin\Debug\PlayerandTeamReqirements.pdb
+C:\Users\kotap\OneDrive\Desktop\Course End Project1\PlayerandTeamReqirements\PlayerandTeamReqirements\obj\Debug\PlayerandTeamReqirements.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\Course End Project1\PlayerandTeamReqirements\PlayerandTeamReqirements\obj\Debug\PlayerandTeamReqirements.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\Course End Project1\PlayerandTeamReqirements\PlayerandTeamReqirements\obj\Debug\PlayerandTeamReqirements.exe
+C:\Users\kotap\OneDrive\Desktop\Course End Project1\PlayerandTeamReqirements\PlayerandTeamReqirements\obj\Debug\PlayerandTeamReqirements.pdb
